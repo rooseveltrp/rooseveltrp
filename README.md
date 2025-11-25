@@ -1,6 +1,8 @@
 Hi there 👋
 
-Thank you for stopping by! I'm Roosevelt, a Full Stack Software Engineer based in Maryland, USA. Listed below are some of the projects I've worked on:
+Thank you for stopping by! I'm Roosevelt, a Full Stack Software Engineer based in Maryland, USA. If you wish to contact me, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rpurification/)!
+
+Listed below are some of the projects I've worked on:
 
 ## NASA Projects
 
