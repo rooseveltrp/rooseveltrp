@@ -6,13 +6,13 @@ Listed below are some of the projects I've worked on:
 
 ## NASA Projects
 
+* [NASA Earth Science Data Visualization Platform](https://github.com/rooseveltrp/nasa_rainfall_climate_trends)
 * [GeoJSON Charts](https://github.com/rooseveltrp/GeoJSON-Charts)
 * [HDF5 Plotter (Perl)](https://github.com/rooseveltrp/HDF5_Perl_Plot_Example)
 
 ## AI / ML Projects
 
 * [Maze Q-Learning Agent](https://github.com/rooseveltrp/Markov_Decision_Process_Agent)
-* [Markov Decision Process Agent](https://github.com/rooseveltrp/Markov_Decision_Process_Agent)
 * [React/Python AI Web App (Classification)](https://github.com/rooseveltrp/react-python-ai)
 
 ## Applications & Microservices
